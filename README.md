@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Tiago1Ribeiro
-- 👀 I’m interested in Machine/Deep Learning, Computer Vision, among other things. I am currently doing a Masters in Data Science.
-- 🌱 I’m focused on image segmentation with TensorFlow/Keras, but I am also learning Hadoop, OpenCV, NLTK, Huggingface Transformers and much more.
-- 💞️ I’m looking to collaborate on any Computer Vision project, related to microscopy imaging, remote sensing or in artificial intelligence projects applied to audio, and more.
-- 📫 How to reach me: tiago.r.ribeiro@gmail.com
-<!---
-Tiago1Ribeiro/Tiago1Ribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm @Tiago1Ribeiro, I'm particularly attracted to artificial intelligence technologies, with a focus on machine learning and deep learning.
+
+🌱 My current areas of interest encompass computer vision and Generative Models. I'm actively enhancing my skills in image segmentation, object detection, and tracking. Additionally, I'm delving into representation learning methods and gaining insights into compression mechanisms in deep learning models.
+
+🤝 I highly value interdisciplinary collaboration and am eager to contribute to projects that integrate microscopy, biology, industry, audio signal processing, or industrial/graphic design with machine learning methods. I'm also captivated by artistic and creative applications.
+
+📩 If you'd like to learn more about my work or explore potential collaborations, feel free to reach out to me at tiago.r.ribeiro@gmail.com.
+
