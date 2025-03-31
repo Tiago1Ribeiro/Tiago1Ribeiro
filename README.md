@@ -1,5 +1,5 @@
 
-👋 Hi! I'm @Tiago1Ribeiro, a researcher in artificial intelligence focusing on machine learning** and deep learning.
+👋 Hi! I'm @Tiago1Ribeiro, a researcher in artificial intelligence focusing on machine learning and deep learning.
 
 🌱 My interests include Music Emotion Recognition (MER), Music Emotion Variation Detection (MEVD), and emotion-based music generation. I'm also enhancing my skills in image segmentation, object detection, and representation learning.
 
